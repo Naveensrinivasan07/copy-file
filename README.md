@@ -38,4 +38,4 @@ with open("sample1.txt", "r") as firstfile:
 
 ### OUTPUT:
 ![output](![OUT](https://github.com/Naveensrinivasan07/copy-file/assets/119475891/6ad570fa-192f-45a3-986b-3297096eb19b)
-)
+
