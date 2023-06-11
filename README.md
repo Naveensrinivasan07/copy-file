@@ -35,6 +35,8 @@ with open("sample1.txt", "r") as firstfile:
         for line in firstfile:
             secondfile.write(line)  
 ```
+###FILE:
+![ex5(c)(a)(p)](https://github.com/Naveensrinivasan07/copy-file/assets/119475891/3507a84a-5892-44d7-bf61-5c41bd585b1b)
 
 ### OUTPUT:
 ![output](![OUT](https://github.com/Naveensrinivasan07/copy-file/assets/119475891/6ad570fa-192f-45a3-986b-3297096eb19b)
